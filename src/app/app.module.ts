@@ -7,6 +7,7 @@ import { ServicesComponent } from './services/services.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { PagesComponent } from './pages/pages.component';
 import { FAQComponent } from './faq/faq.component';
+import { ContactComponent } from './contact/contact.component';
 const routes: Routes = [
   {path:'',component:HomeComponent},
   {path:'services',component:ServicesComponent},
@@ -20,6 +21,7 @@ const routes: Routes = [
     ServicesComponent,
     PagesComponent,
     FAQComponent,
+    ContactComponent,
 
   ],
   imports: [
