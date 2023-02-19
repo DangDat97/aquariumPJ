@@ -1,0 +1,94 @@
+.head{
+  padding-top: 300px;
+  float: left;
+}
+.head h1{
+  font-size: 50px;
+}
+.event-e2{
+  text-align: center;
+  padding-top: 100px ;
+  padding-bottom: 10px;
+}
+.event-e4 img {
+  padding : 20px 0px ;
+  width: 50%;
+}
+.event-e4 .col-2{
+  text-align: center;
+}
+.event-e4 .content span{
+  float: right;
+  position: absolute;
+  top: 0;
+  right:0;
+  background-color: #fafafa;
+  color: black;
+  padding: 30px 30px;
+}
+.event-e3 .content span{
+  float: right;
+  position: absolute;
+  top:0;
+  right:0;
+  padding: 30px 30px;
+  background-color: #fafafa;
+  color: black;
+}
+.event-e4 .col-4{
+  position: relative;
+}
+.event-e3 .col-4{
+  position: relative;
+}
+.event-body .line{
+  position: relative;
+  left: 46%;
+  right: auto;
+}
+.event{
+  color: #fafafa;
+  height: 500px;
+  background-size: cover ;
+  background-repeat: no-repeat;
+  background-image: url("../../assets/images/bright-fish-swim-in-the-aquarium-e1628655460125.jpg");
+}
+.img7{
+  background-size: cover ;
+  background-image: url("../../assets/images/octopus-in-the-blue-e1628655493611.jpg");
+}
+.img8{
+  background-size: cover ;
+  background-image: url("../../assets/images/beautiful-fish-in-aquarium-e1628655504202.jpg");
+}
+.img9{
+  background-size: cover ;
+  background-image: url("../../assets/images/underwater-e1628655517426.jpg");
+}
+.img10{
+  background-size: cover ;
+  background-image: url("../../assets/images/marine-life-in-the-aquarium-1-e1628655480694.jpg");
+}
+.img11{
+  background-size: cover ;
+  background-image: url("../../assets/images/actinia-e1628655528106.jpg");
+}
+.img12{
+  background-size: cover ;
+  background-image: url("../../assets/images/beautiful-woman-swimming-with-fancy-dress-underwater-e1628655540567.jpg");
+}
+.img13{
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background-image: url("../../assets/images/bright-fish-swim-in-the-aquarium-e1628655460125.jpg");
+}
+.head .line{
+  background-color: #19CBE4;
+  width: 80px;
+  height: 1px;
+  margin-bottom:13px;
+}
+

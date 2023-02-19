@@ -1,0 +1,75 @@
+.container-e2{
+  text-align: left;
+}
+.single{
+  padding: 300px 0px 100px 0px;
+  text-align: left;
+}
+.line{
+  background-color: #19CBE4;
+  width: 80px;
+  height: 1px;
+  margin:20px;
+}
+.images1{
+  padding: 20px 0px;
+}
+.container-e2{
+  float: none;
+  max-width: 600px;
+  margin: 0 auto;
+}
+.nav1{
+  text-align: left;
+}
+.nav1 li {
+  padding-top:15px;
+
+}
+.nav1 span{
+  padding-left: 5px;
+}
+.container-e3{
+  float: none;
+  max-width: 600px;
+  margin: 0 auto;
+}
+.back p{
+  padding-top: 2px;
+}
+
+.backer{
+  padding: 20px 0;
+  background-color: black;
+  width: 25%;
+  text-align: center;
+  background-color: #19CBE4;
+}
+.backer:hover span{
+  color: #19CBE4;
+}
+.backer:hover{
+  background-color: #2c2c2c;
+}
+.back .backer {
+  color: #2c2c2c;
+  margin-top: 20px;
+}
+.post{
+  color: #fafafa;
+  height: 500px;
+  background-size: cover ;
+  background-repeat: no-repeat;
+  background-image: url("../../assets/images/king-crab-e1628655612954.jpg");
+}
+.post-e2 h1{
+  color: #2c2c2c;
+}
+.post-e3{
+  text-align: left;
+  color: black;
+}
+.liner .line{
+  width: 100%;
+  background-color:#eaeaea;
+}
