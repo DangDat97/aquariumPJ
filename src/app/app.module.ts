@@ -8,11 +8,17 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { PagesComponent } from './pages/pages.component';
 import { FAQComponent } from './faq/faq.component';
 import { ContactComponent } from './contact/contact.component';
+import { GalleryComponent } from './gallery/gallery.component';
+import { AboutComponent } from './about/about.component';
 const routes: Routes = [
   {path:'',component:HomeComponent},
   {path:'services',component:ServicesComponent},
   {path:'404',component:PagesComponent},
-  {path:'FAQ',component:FAQComponent}
+  {path:'FAQ',component:FAQComponent},
+  {path:'contact',component:ContactComponent},
+  {path:'gallery',component:GalleryComponent},
+
+  {path:'about',component:AboutComponent},
 
 ];
 @NgModule({
@@ -22,6 +28,8 @@ const routes: Routes = [
     PagesComponent,
     FAQComponent,
     ContactComponent,
+    GalleryComponent,
+    AboutComponent,
 
   ],
   imports: [

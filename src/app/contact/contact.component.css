@@ -9,7 +9,7 @@
 }
 .home{
   padding-top: 251px;
-  padding-left: 211px;
+  text-align: left;
 }
 .contact h1{
   color: #FFFFFF;
@@ -35,18 +35,22 @@ i{
   margin-bottom: 100px;
 }
 .Get-In-Touch h5{
-  font-weight: 100;
+  font-weight: 600;
+  color: #1d252b;
 }
 .Get-In-Touch h1{
   padding-top: 25px;
   font-weight: 900;
   padding-bottom: 20px;
+  color: #1d252b;
 }
 .Get-In-Touch p{
   font-weight: 400;
+  color: #1d252b;
 }
 .Get-In-Touch {
   padding-bottom: 30px;
+  text-align: left;
 }
 .icon i{
   font-size: 40px;
@@ -54,10 +58,12 @@ i{
 .location p{
   margin-bottom: 0px;
   font-weight: 100;
+
 }
 .location h5{
   margin-bottom: 0px;
   font-weight: 900;
+  color: #1d252b;
 }
 
 .card-e3{
@@ -113,6 +119,8 @@ i{
 
 .Social-Media h5{
   font-weight: 800;
+  text-align: left;
+  color: #1d252b;
 }
 
 .form-control {
@@ -122,9 +130,14 @@ i{
 }
 
 .leave-a-message {
-
+text-align: left;
   padding: 3rem 3rem;
   box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 10%);
+  color: #1d252b;
+  font-weight: 800;
+}
+.leave-a-message h1{
+  font-weight: 600;
 }
 .map{
   text-align: center;
@@ -132,4 +145,9 @@ i{
 .section-e4{
   margin-top: 100px;
   margin-bottom: 100px;
+}
+
+.location{
+  text-align: initial;
+
 }

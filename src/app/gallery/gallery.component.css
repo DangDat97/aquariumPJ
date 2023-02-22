@@ -1,0 +1,202 @@
+
+
+
+.container{
+  float: none;
+  margin: 0 auto;
+}
+.Gallery{
+  background-image: url("../../assets/images/close-up-on-green-fresh-water-aquarium-e1628655395582.jpg");
+  height: 497px;
+}
+.Gallery{
+
+padding-top: 270px;
+
+  padding-left: 237px;
+}
+
+
+.home{
+text-align: left;
+}
+.Gallery h1{
+  color: #FFFFFF;
+  font-weight: 800;
+  padding-bottom: 15px;
+}
+.Gallery h6{
+  color: #FFFFFF;
+  padding-top: 25px;
+  font-weight: 500;
+}
+.ngang{
+  height: 2px;
+  width: 37px;
+  background: #19cbe4;
+}
+i{
+  color: #19cbe4;
+  padding-right: 12px;
+}
+.Nature-Aquarium{
+  padding: 75.95px 75.95px 0px;
+  text-align: left;
+}
+.Nature-Aquarium h6{
+  font-weight: 600;
+  margin-bottom: 13px;
+  color: #1d252b;
+
+}
+.Nature-Aquarium h1{
+  font-weight: 800;
+  margin-top: 26px;
+  margin-bottom: 23px;
+  color: #1d252b;
+}
+
+.Gianyar{
+  margin-top: 27px;
+  font-weight: 800;
+}
+.Gianyar h4{
+  font-weight: 900;
+  color: #1d252b;
+}
+.Gianyar p{
+  color: #19cbe4;
+  color: #1d252b;
+}
+.read-more{
+  margin-top: 30px;
+}
+.read-more >button{
+  padding: 20px 40px;
+  background: #19cbe4;
+  border: none;
+  font-weight: 600;
+}
+.read-more >button:hover{
+  background: #082441;
+  color: #19cbe4;
+}
+.col-6 {
+  padding: 0px;
+}
+.section-e3{
+  margin-bottom: 300px;
+}
+.ngang-one{
+  height: 2px;
+  width: 37px;
+  background: #19cbe4;
+  text-align: center;
+  margin-left: 628px;
+}
+.section-e4{
+  margin-bottom: 100px;
+}
+.Testimonial{
+  text-align: center;
+}
+.Testimonial h5{
+  font-weight: 400;
+  color: #1d252b;
+}
+
+.Testimonial h1{
+  margin-top: 25px;
+  font-weight: 800;
+  margin-bottom: 30px;
+  color: #1d252b;
+}
+.Testimonial P{
+  font-weight: 100;
+  padding-bottom: 30px;color: #1d252b;
+}
+.col-3{
+  padding: 0px;
+}
+.Rita-Eland{
+  padding: 50px;
+}
+.Rita-Eland h6{
+  font-weight: 800;
+  margin-top: 28px;
+  color: #1d252b;
+}
+.Rita-Eland h5{
+  font-weight: 100;
+  color: #1d252b;
+}
+.img4 img{
+  border-radius: 50%;
+}
+.Lola-Bailey{
+  margin: 20px 10px;
+  padding: 10px 60px 40px ;
+
+}
+.dat-img{
+  background-image: url("../../assets/images/dat8.jpg");
+  height: 960px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.dat-img col-6:last-child{
+  position: absolute;
+  right: 15px;
+  bottom: 15px;
+  text-align: left;
+  padding: 20px 60px ;
+  bottom: 19px;
+  background-color: #FFFFFF;
+
+}
+.sider{
+  background: #FFFFFF;
+
+  position: absolute;
+  top: 600px;
+  margin-right: 10px;
+  margin: 10px 37px;
+  padding: 46px 27px;
+
+
+}
+.img5 img{
+  border-radius: 50%;
+  width: 60px;
+  height: 100%;
+}
+.name h5{
+  font-weight: 800;
+  color: #1d252b;
+}
+.name p {
+  color: #19cbe4;
+
+
+}
+
+.sao{
+  padding-bottom: 15px;
+}
+.over-lay{
+  background-color: #082441;
+  opacity: 0.5;
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  position: absolute;
+
+}
+
+.carousel-item-active .sao1{
+  text-align: initial;
+}

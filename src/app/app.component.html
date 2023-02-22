@@ -28,14 +28,14 @@
         <div class="col-9 hright categories">
           <ul class="nav">
             <li><a routerLink="/">Home</a></li>
-            <li><a href="#"> About</a></li>
+            <li><a routerLink="/about">About</a></li>
             <li><a routerLink="/services">Servies</a></li>
             <li ngbDropdown class="nav-column" >
               <a href="#"> Pages</a>
               <i  class="bi bi-chevron-down py-5"></i>
                 <ul  ngbDropdownMenu class="nav-item">
                   <li ngbDropdownItem><a href="#">Pricing</a></li>
-                  <li ngbDropdownItem><a href="#">Gallery</a></li>
+                  <li ngbDropdownItem><a routerLink="/gallery">Gallery</a></li>
                   <li ngbDropdownItem><a href="#">Events</a></li>
                   <li ngbDropdownItem><a routerLink="/FAQ">FAQ</a></li>
                   <li ngbDropdownItem><a routerLink="/404">404 Page</a></li>
@@ -48,8 +48,10 @@
                 <li ngbDropdownItem><a href="#">Blog</a></li>
                 <li ngbDropdownItem><a href="#">Single Post</a></li>
               </ul>
-            </li>
+
             <li><a href="#">Contact</a></li>
+
+
             <li><i class="bi bi-telephone" style="color: #19cbe4"></i>+021 441 9858</li>
           </ul>
         </div>
