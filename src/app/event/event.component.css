@@ -1,6 +1,7 @@
 .head{
   padding-top: 300px;
   float: left;
+  text-align: left;
 }
 .head h1{
   font-size: 50px;
@@ -10,9 +11,8 @@
   padding-top: 100px ;
   padding-bottom: 10px;
 }
-.event-e4 img {
-  padding : 20px 0px ;
-  width: 50%;
+.event-e2{
+  padding: 30px;
 }
 .event-e4 .col-2{
   text-align: center;
@@ -35,11 +35,15 @@
   background-color: #fafafa;
   color: black;
 }
+.event-e3 .col-4{
+  position: relative;
+}
 .event-e4 .col-4{
   position: relative;
 }
-.event-e3 .col-4{
-  position: relative;
+.event-e5 img {
+  padding : 20px 0px  ;
+  width: 50%;
 }
 .event-body .line{
   position: relative;
@@ -53,27 +57,34 @@
   background-repeat: no-repeat;
   background-image: url("../../assets/images/bright-fish-swim-in-the-aquarium-e1628655460125.jpg");
 }
+
 .img7{
+  height:500px;
   background-size: cover ;
   background-image: url("../../assets/images/octopus-in-the-blue-e1628655493611.jpg");
 }
 .img8{
+  height:500px;
   background-size: cover ;
   background-image: url("../../assets/images/beautiful-fish-in-aquarium-e1628655504202.jpg");
 }
 .img9{
+  height:500px;
   background-size: cover ;
   background-image: url("../../assets/images/underwater-e1628655517426.jpg");
 }
 .img10{
+  height:500px;
   background-size: cover ;
   background-image: url("../../assets/images/marine-life-in-the-aquarium-1-e1628655480694.jpg");
 }
 .img11{
+  height:500px;
   background-size: cover ;
   background-image: url("../../assets/images/actinia-e1628655528106.jpg");
 }
 .img12{
+  height:500px;
   background-size: cover ;
   background-image: url("../../assets/images/beautiful-woman-swimming-with-fancy-dress-underwater-e1628655540567.jpg");
 }
@@ -90,5 +101,91 @@
   width: 80px;
   height: 1px;
   margin-bottom:13px;
+}.event-e2 .line{
+   background-color: #19CBE4;
+   width: 80px;
+   height: 1px;
+   margin-bottom:13px;
+   position: relative;
+   left: 47%;
+   right: auto;
+ }
+.body1 .line{
+  background-color: #19CBE4;
+  width: 80px;
+  height: 1px;
+  margin-bottom:13px;
+  position: relative;
+  left: 40%;
+  right: auto;
 }
+.col-5 .line{
+  background-color: #19CBE4;
+  width: 80px;
+  height: 1px;
+  margin-bottom:13px;
+  position: relative;
+  left: 40%;
+  right: auto;
+}
+.col-5{
+ color: white;
+padding:0px;
+}
+.event-e3 .content {
+   box-sizing: border-box;
+   margin-top: 10px;
+   color:white;
+   display: flex;
+   align-items: self-end;
+   text-align: left;
+ }
+.event-e4 .content {
 
+  box-sizing: border-box;
+  margin-top: 10px;
+  color:white;
+  display: flex;
+  align-items: self-end;
+  text-align: left;
+}
+.backer{
+  padding: 20px 0px;
+  color: black;
+  width: 30%;
+  background-color: #19CBE4;
+}
+.backer:hover span{
+  color: #19CBE4;
+}
+.backer:hover{
+  background-color: #2c2c2c;
+}
+.col-5 .backer {
+  color: #2c2c2c;
+  margin-top: 20px;
+  text-align: center;
+}
+.col-7{
+  background-color: #1d252b;
+  color: white;
+  padding: 0px;
+}
+.col-7 .col-4{
+  padding: 10px;
+}
+.col-7 .col-4 p{
+  color: #19CBE4;
+}
+.col-7 .line{
+  background-color: #19CBE4;
+  width: 80px;
+  height: 1px;
+  margin-bottom:13px;
+  position: relative;
+  left: 45%;
+  right: auto;
+}
+.event-e7 ul li{
+  text-align: center;
+}

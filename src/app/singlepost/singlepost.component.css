@@ -73,3 +73,38 @@
   width: 100%;
   background-color:#eaeaea;
 }
+.end .line{
+  background-color: #19CBE4;
+  width: 40px;
+  height: 1px;
+  margin-bottom:13px;
+  position: relative;
+  left: 45%;
+  right: auto;
+}
+.img1{
+  height:500px;
+  background-size: cover ;
+  background-image: url("../../assets/images/colorful-fish-from-the-spieces-symphysodon-discus-in-aquarium--e1628655050154.jpg");
+}
+.img2{
+  height:500px;
+  background-size: cover ;
+  background-image: url("../../assets/images/carp-fish-in-the-aquarium-e1628655039273.jpg");
+}
+.img3{
+  height:500px;
+  background-size: cover ;
+  background-image: url("../../assets/images/salt-water-aquarium-e1628655024510.jpg");
+}
+.post-e5{
+  padding: 20px;
+}
+
+.post-e5 span{
+  float: left;
+}
+.content span{
+  padding: 6px 10px;
+  background-color:#19CBE4  ;
+}
