@@ -108,3 +108,15 @@
   padding: 6px 10px;
   background-color:#19CBE4  ;
 }
+.post-e5 .content {
+  box-sizing: border-box;
+  margin-top: 10px;
+  color:white;
+  display: flex;
+  align-items: self-end;
+  text-align: left;
+}
+.post-e5 span{
+  position: absolute;
+  top: 30px;
+}

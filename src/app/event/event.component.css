@@ -141,7 +141,6 @@ padding:0px;
    text-align: left;
  }
 .event-e4 .content {
-
   box-sizing: border-box;
   margin-top: 10px;
   color:white;
@@ -154,6 +153,7 @@ padding:0px;
   color: black;
   width: 30%;
   background-color: #19CBE4;
+  text-align: center;
 }
 .backer:hover span{
   color: #19CBE4;
@@ -163,8 +163,8 @@ padding:0px;
 }
 .col-5 .backer {
   color: #2c2c2c;
-  margin-top: 20px;
-  text-align: center;
+  margin: 50px 0px 0px 210px;
+
 }
 .col-7{
   background-color: #1d252b;
@@ -186,6 +186,7 @@ padding:0px;
   left: 45%;
   right: auto;
 }
-.event-e7 ul li{
+
+.event-e7 .col-4{
   text-align: center;
 }
